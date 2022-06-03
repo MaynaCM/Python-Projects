@@ -46,3 +46,5 @@ print("The model has successfully trained")
 
 model.save('mnist.h5')
 print("Saving the model as mist.h5")
+
+#loading...#
